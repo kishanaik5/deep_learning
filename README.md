@@ -30,5 +30,5 @@ and demonstrate the impact of incorporating dropout layers to improve
 generalization.
 9. Implementing a Deep Convolutional Generative Adversarial Network
 (DCGAN) to Simulate Realistic Images
-10.Study the effect of batch normalization and dropout in neural network
+10. Study the effect of batch normalization and dropout in neural network
 classifiers.
