@@ -32,3 +32,6 @@ generalization.
 (DCGAN) to Simulate Realistic Images
 10. Study the effect of batch normalization and dropout in neural network
 classifiers.
+11. To develop a GRU based RNN model for sentimental analysis on the IMDb movie reviews datasets.
+12. To implement an object detection and segmentation model using Mask R-CNN on a given image
+    
